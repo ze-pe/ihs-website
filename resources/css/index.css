@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: darkblue;
+}
+
+#logo-top {
+    width: 2.8rem;
+    height: auto;
+}
+
+#logo{
+    width: fit-content;
+    height: auto;
+    filter: drop-shadow(1px 1px 1px rgb(180, 174, 174));
+}
+
+#intro {
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+#contact {
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
